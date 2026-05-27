@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605271818516RDW6P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527181851VT0T52</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Cómo cruzamos el Guadalquivir? - Física y Química 3º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>La ciencia ha evolucionado, en gran parte, debido a las necesidades humanas. Una de ellas es la de construir estructuras para salvar obstáculos como ríos. Para diseñar este tipo de estructuras se necesita saber que son las fuerzas, momentos, vínculos, desplazamientos, etc. Esta SA centra su motivación en el tratamiento de un tema complejo, cercano y peculiar de Andalucía.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Espinar</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779898353588</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpo9iv66-1q2bt8rhu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv66-1q2bt8rhu</odePageId>
+      <odeBlockId>block-1779699954266-3ah9i8kth</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv66-1q2bt8rhu</odePageId>
+          <odeBlockId>block-1779699954266-3ah9i8kth</odeBlockId>
+          <odeIdeviceId>idevice-1779699954261-xfa3oasby</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong>¿Cómo cruzamos el Guadalquivir? - Proyecto de Física y Química – 3.º ESO</strong></span></p>
+<p><span style="font-size: 12pt;"><strong></strong>Bienvenido/a al proyecto. Aquí encontrarás todas las actividades, recursos, tareas y herramientas necesarias para desarrollar tu puente y comprender los principios físicos que lo hacen posible.</span></p>
+<p><span style="font-size: 12pt;"><img src="{{context_path}}/content/resources/Puente Triana portada.jpg" width="1440" height="953" alt="Imagen de Puente de Triana en Sevilla." /></span></p>
+<p><span style="font-size: 12pt;">Imagen: “Puente de Triana, Sevilla” – Autor: joseluis1960 – Licencia: Pixabay License (uso libre, no requiere atribución) – Fuente: Pixabay</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779699954261-xfa3oasby","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong>¿Cómo cruzamos el Guadalquivir? - Proyecto de Física y Química – 3.º ESO</strong></span></p>\n<p><span style=\"font-size: 12pt;\"><strong></strong>Bienvenido/a al proyecto. Aquí encontrarás todas las actividades, recursos, tareas y herramientas necesarias para desarrollar tu puente y comprender los principios físicos que lo hacen posible.</span></p>\n<p><span style=\"font-size: 12pt;\"><img src=\"{{context_path}}/content/resources/Puente Triana portada.jpg\" width=\"1440\" height=\"953\" alt=\"Imagen de Puente de Triana en Sevilla.\" /></span></p>\n<p><span style=\"font-size: 12pt;\">Imagen: “Puente de Triana, Sevilla” – Autor: joseluis1960 – Licencia: Pixabay License (uso libre, no requiere atribución) – Fuente: Pixabay</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6c-h4xwhrjvm</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6c-h4xwhrjvm</odePageId>
+      <odeBlockId>block-1779700980142-mswfz6ovb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6c-h4xwhrjvm</odePageId>
+          <odeBlockId>block-1779700980142-mswfz6ovb</odeBlockId>
+          <odeIdeviceId>idevice-1779700980137-lmhpvq4p9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong><span style="font-family: arial, helvetica, sans-serif;">Presentación del proyecto</span></strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Bienvenido/a al proyecto “¿Cómo cruzamos el Guadalquivir?”</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">En este proyecto vas a convertirte en ingeniero/a, diseñador/a y constructor/a de un puente capaz de resistir cargas reales. A lo largo de 15 sesiones aprenderás cómo funcionan las fuerzas, cómo se equilibran las estructuras y qué principios físicos permiten que un puente no se caiga.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Trabajarás con herramientas digitales, realizarás experimentos, resolverás retos y, finalmente, construirás una maqueta funcional de un puente que será puesta a prueba en una prueba de carga real.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">¿Qué aprenderás?</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">A identificar y representar fuerzas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">A trabajar con vectores y ecuaciones de equilibrio.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">A comprender cómo se diseñan estructuras estables.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">A usar herramientas digitales como GeoGebra, Genially o Google Drawings.</span></li>
+<li>A trabajar en equipo, comunicar tus ideas y justificar tus decisiones.</li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;">¿Cuál será tu producto final?</span></p>
+<p><br /><span style="font-family: arial, helvetica, sans-serif;">Construirás una maqueta de puente y elaborarás una presentación digital donde explicarás:</span><span style="font-family: arial, helvetica, sans-serif;"></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">cómo funciona tu puente, </span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">qué fuerzas actúan sobre él, </span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">cómo has resuelto el equilibrio, </span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">y por qué tu diseño es estable.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;">¿Cómo trabajaremos?</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">De forma individual, en parejas y en grupos cooperativos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">En el aula, en el laboratorio y en el aula TIC.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Con actividades prácticas, retos, vídeos, simulaciones y experimentos.</span><br /><span style="font-family: arial, helvetica, sans-serif;"> </span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">¿Cómo se evaluará tu trabajo?</span><br /><span style="font-family: arial, helvetica, sans-serif;">A lo largo del proyecto recibirás feedback continuo mediante: </span><span style="font-family: arial, helvetica, sans-serif;">listas de cotejo, </span><span style="font-family: arial, helvetica, sans-serif;">rúbricas, </span><span style="font-family: arial, helvetica, sans-serif;">dianas de autoevaluación, </span><span style="font-family: arial, helvetica, sans-serif;">observación directa, </span><span style="font-family: arial, helvetica, sans-serif;">y análisis de tus producciones. </span><span style="font-family: arial, helvetica, sans-serif;">La evaluación será formativa, es decir, te ayudará a mejorar paso a paso.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">¿Qué actitud se espera de ti?</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Curiosidad</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Participación</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trabajo en equipo</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Creatividad</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Responsabilidad</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;">¿Estás preparado/a para construir el puente más resistente del Guadalquivir?</span><br /><span style="font-family: arial, helvetica, sans-serif;">¡Comenzamos!</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779700980137-lmhpvq4p9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Presentación del proyecto</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Bienvenido/a al proyecto “¿Cómo cruzamos el Guadalquivir?”</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">En este proyecto vas a convertirte en ingeniero/a, diseñador/a y constructor/a de un puente capaz de resistir cargas reales. A lo largo de 15 sesiones aprenderás cómo funcionan las fuerzas, cómo se equilibran las estructuras y qué principios físicos permiten que un puente no se caiga.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajarás con herramientas digitales, realizarás experimentos, resolverás retos y, finalmente, construirás una maqueta funcional de un puente que será puesta a prueba en una prueba de carga real.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué aprenderás?</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">A identificar y representar fuerzas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">A trabajar con vectores y ecuaciones de equilibrio.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">A comprender cómo se diseñan estructuras estables.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">A usar herramientas digitales como GeoGebra, Genially o Google Drawings.</span></li>\n<li>A trabajar en equipo, comunicar tus ideas y justificar tus decisiones.</li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cuál será tu producto final?</span></p>\n<p><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Construirás una maqueta de puente y elaborarás una presentación digital donde explicarás:</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">cómo funciona tu puente, </span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">qué fuerzas actúan sobre él, </span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">cómo has resuelto el equilibrio, </span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">y por qué tu diseño es estable.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cómo trabajaremos?</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">De forma individual, en parejas y en grupos cooperativos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">En el aula, en el laboratorio y en el aula TIC.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Con actividades prácticas, retos, vídeos, simulaciones y experimentos.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"> </span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cómo se evaluará tu trabajo?</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">A lo largo del proyecto recibirás feedback continuo mediante: </span><span style=\"font-family: arial, helvetica, sans-serif;\">listas de cotejo, </span><span style=\"font-family: arial, helvetica, sans-serif;\">rúbricas, </span><span style=\"font-family: arial, helvetica, sans-serif;\">dianas de autoevaluación, </span><span style=\"font-family: arial, helvetica, sans-serif;\">observación directa, </span><span style=\"font-family: arial, helvetica, sans-serif;\">y análisis de tus producciones. </span><span style=\"font-family: arial, helvetica, sans-serif;\">La evaluación será formativa, es decir, te ayudará a mejorar paso a paso.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué actitud se espera de ti?</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Curiosidad</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Participación</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajo en equipo</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Creatividad</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Responsabilidad</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">¿Estás preparado/a para construir el puente más resistente del Guadalquivir?</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">¡Comenzamos!</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6h-1pveb9zrz</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6h-1pveb9zrz</odePageId>
+      <odeBlockId>block-1779701844308-ane2p3fed</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6h-1pveb9zrz</odePageId>
+          <odeBlockId>block-1779701844308-ane2p3fed</odeBlockId>
+          <odeIdeviceId>idevice-1779701844303-irzdi7djh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Protección de datos personales y derechos digitales</span></strong></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">En este proyecto trabajaremos con herramientas digitales y realizaremos actividades que pueden implicar el uso de imágenes, vídeos, audios o documentos creados por ti. Por eso es importante que conozcas tus derechos y cómo protegemos tus datos personales.</span></p>
+<p style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif;">1. ¿Qué datos personales se pueden usar en este proyecto?</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Durante el desarrollo del proyecto podremos utilizar:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Tu nombre y apellidos para identificar tus tareas.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Imágenes o vídeos tuyos solo si contamos con autorización familiar.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Archivos digitales que tú crees (Genially, Google Docs, GeoGebra, etc.).</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Tu participación en actividades cooperativas.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Nunca se publicarán tus datos personales en internet sin permiso.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> </span><strong><span style="font-family: arial, helvetica, sans-serif;">2. ¿Cómo protegemos tus datos?</span></strong></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Solo se usarán para actividades educativas.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">No se compartirán con personas ajenas al centro.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Se almacenarán en plataformas seguras (Classroom, Moodle, etc.).</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Se eliminarán cuando ya no sean necesarios para el aprendizaje.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> </span><strong><span style="font-family: arial, helvetica, sans-serif;">3. Uso de imágenes, vídeos y grabaciones</span></strong></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Si aparece tu imagen, voz o trabajo en una foto o vídeo, será solo para uso educativo.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Si no tienes autorización, no aparecerás en ninguna grabación.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Puedes pedir en cualquier momento que se elimine una imagen o vídeo donde aparezcas.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> </span><strong><span style="font-family: arial, helvetica, sans-serif;">4. Tus derechos digitales</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Tienes derecho a:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Saber qué datos se recogen y para qué.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Pedir que se corrijan si son incorrectos.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Solicitar que se eliminen cuando ya no sean necesarios.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Participar en entornos digitales seguros.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Proteger tu identidad digital.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Usar herramientas digitales de forma responsable y ética.</span></li>
+</ul>
+<p style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif;">5. Uso responsable de las tecnologías</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Durante el proyecto te comprometes a:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Respetar el trabajo de tus compañeros/as.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">No publicar imágenes o vídeos sin permiso.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Citar siempre las fuentes y respetar los derechos de autor.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Mantener un comportamiento adecuado en plataformas digitales.</span></li>
+</ul>
+<p style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif;">6. ¿Por qué es importante todo esto?</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Porque queremos que aprendas a:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Trabajar en entornos digitales de forma segura.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Proteger tu identidad y tu privacidad.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Ser un ciudadano digital responsable.</span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Respetar la privacidad de los demás.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779701844303-irzdi7djh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Protección de datos personales y derechos digitales</span></strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">En este proyecto trabajaremos con herramientas digitales y realizaremos actividades que pueden implicar el uso de imágenes, vídeos, audios o documentos creados por ti. Por eso es importante que conozcas tus derechos y cómo protegemos tus datos personales.</span></p>\n<p style=\"text-align: justify;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">1. ¿Qué datos personales se pueden usar en este proyecto?</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Durante el desarrollo del proyecto podremos utilizar:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Tu nombre y apellidos para identificar tus tareas.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Imágenes o vídeos tuyos solo si contamos con autorización familiar.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Archivos digitales que tú crees (Genially, Google Docs, GeoGebra, etc.).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Tu participación en actividades cooperativas.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Nunca se publicarán tus datos personales en internet sin permiso.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2. ¿Cómo protegemos tus datos?</span></strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Solo se usarán para actividades educativas.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">No se compartirán con personas ajenas al centro.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Se almacenarán en plataformas seguras (Classroom, Moodle, etc.).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Se eliminarán cuando ya no sean necesarios para el aprendizaje.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><strong><span style=\"font-family: arial, helvetica, sans-serif;\">3. Uso de imágenes, vídeos y grabaciones</span></strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Si aparece tu imagen, voz o trabajo en una foto o vídeo, será solo para uso educativo.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Si no tienes autorización, no aparecerás en ninguna grabación.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Puedes pedir en cualquier momento que se elimine una imagen o vídeo donde aparezcas.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4. Tus derechos digitales</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Tienes derecho a:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Saber qué datos se recogen y para qué.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Pedir que se corrijan si son incorrectos.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Solicitar que se eliminen cuando ya no sean necesarios.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Participar en entornos digitales seguros.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Proteger tu identidad digital.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Usar herramientas digitales de forma responsable y ética.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">5. Uso responsable de las tecnologías</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Durante el proyecto te comprometes a:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Respetar el trabajo de tus compañeros/as.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">No publicar imágenes o vídeos sin permiso.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Citar siempre las fuentes y respetar los derechos de autor.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Mantener un comportamiento adecuado en plataformas digitales.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">6. ¿Por qué es importante todo esto?</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Porque queremos que aprendas a:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajar en entornos digitales de forma segura.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Proteger tu identidad y tu privacidad.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Ser un ciudadano digital responsable.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Respetar la privacidad de los demás.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6k-w3966gnrs</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6k-w3966gnrs</odePageId>
+      <odeBlockId>block-1779702299115-wo70uv8a3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6k-w3966gnrs</odePageId>
+          <odeBlockId>block-1779702299115-wo70uv8a3</odeBlockId>
+          <odeIdeviceId>idevice-1779702299112-6sr4uuh12</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-size: 14pt;">Producto final del proyecto: Construcción y presentación del puente</span></strong></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">¿Cuál será tu producto final?</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Al finalizar este proyecto deberás presentar dos productos finales:</span></p>
+<p><strong><em><span style="font-family: arial, helvetica, sans-serif;"> </span><span style="font-family: arial, helvetica, sans-serif;">1. Una maqueta funcional de un puente</span></em></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Construirás una maqueta que represente un puente capaz de soportar una prueba de carga real. Tu puente deberá:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Mantenerse estable.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Resistir el peso asignado sin deformarse.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Mostrar claramente las fuerzas que actúan sobre él.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Estar construido con materiales sencillos (palos de madera, cartón, pegamento, cuerdas…).</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ser fruto del trabajo cooperativo de tu grupo.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;"> </span><em><strong><span style="font-family: arial, helvetica, sans-serif;">2. Una presentación digital explicativa </span></strong></em><br /><span style="font-family: arial, helvetica, sans-serif;">Además de la maqueta, deberás crear una presentación digital donde expliques:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Qué tipo de puente habéis diseñado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Qué fuerzas actúan sobre él.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Cómo habéis resuelto el equilibrio.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Qué cálculos habéis realizado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Qué decisiones técnicas habéis tomado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Cómo ha sido el proceso de construcción.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Resultados de la prueba de carga.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;">La presentación debe ser clara, visual y comprensible para cualquier persona que no haya participado en el proyecto.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">Prueba de carga</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">En la última sesión realizaremos una prueba de carga donde comprobaremos:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">La estabilidad del puente.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Su capacidad para soportar peso.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La calidad de su diseño estructural.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La coherencia entre lo que habéis explicado y lo que ocurre realmente.</span></li>
+</ul>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">¿Qué se evaluará?</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Tu producto final será evaluado mediante:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Una rúbrica analítica (estructura, estabilidad, aplicación de conceptos físicos, creatividad, presentación digital, trabajo cooperativo).</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La prueba de </span><span style="font-family: arial, helvetica, sans-serif;">carga.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La claridad de la presentación Genially.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La justificación técnica del diseño.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">La participación en el grupo.</span></li>
+</ul>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">¿Cómo se trabajará?</span></strong></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">En grupos cooperativos de 3–4 personas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Con reparto de roles (coordinación, diseño, cálculos, construcción, presentación).</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Con apoyo del profesorado en cada fase.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Con retroaliment</span><span style="font-family: arial, helvetica, sans-serif;">ación continua para mejorar el diseño.</span></li>
+</ul>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">Tu reto</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Diseñar y construir un puente que:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Sea estable.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Sea resistente.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Sea estético.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Esté bien justificado científicamente.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Y supere la prueba de carga.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Listo para demostrar tus habilidades como ingeniero/a?</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779702299112-6sr4uuh12","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-size: 14pt;\">Producto final del proyecto: Construcción y presentación del puente</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cuál será tu producto final?</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Al finalizar este proyecto deberás presentar dos productos finales:</span></p>\n<p><strong><em><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><span style=\"font-family: arial, helvetica, sans-serif;\">1. Una maqueta funcional de un puente</span></em></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Construirás una maqueta que represente un puente capaz de soportar una prueba de carga real. Tu puente deberá:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Mantenerse estable.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Resistir el peso asignado sin deformarse.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Mostrar claramente las fuerzas que actúan sobre él.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Estar construido con materiales sencillos (palos de madera, cartón, pegamento, cuerdas…).</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ser fruto del trabajo cooperativo de tu grupo.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><em><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2. Una presentación digital explicativa </span></strong></em><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Además de la maqueta, deberás crear una presentación digital donde expliques:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Qué tipo de puente habéis diseñado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Qué fuerzas actúan sobre él.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Cómo habéis resuelto el equilibrio.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Qué cálculos habéis realizado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Qué decisiones técnicas habéis tomado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Cómo ha sido el proceso de construcción.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Resultados de la prueba de carga.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">La presentación debe ser clara, visual y comprensible para cualquier persona que no haya participado en el proyecto.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Prueba de carga</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">En la última sesión realizaremos una prueba de carga donde comprobaremos:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La estabilidad del puente.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Su capacidad para soportar peso.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La calidad de su diseño estructural.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La coherencia entre lo que habéis explicado y lo que ocurre realmente.</span></li>\n</ul>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué se evaluará?</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Tu producto final será evaluado mediante:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Una rúbrica analítica (estructura, estabilidad, aplicación de conceptos físicos, creatividad, presentación digital, trabajo cooperativo).</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La prueba de </span><span style=\"font-family: arial, helvetica, sans-serif;\">carga.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La claridad de la presentación Genially.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La justificación técnica del diseño.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">La participación en el grupo.</span></li>\n</ul>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cómo se trabajará?</span></strong></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">En grupos cooperativos de 3–4 personas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Con reparto de roles (coordinación, diseño, cálculos, construcción, presentación).</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Con apoyo del profesorado en cada fase.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Con retroaliment</span><span style=\"font-family: arial, helvetica, sans-serif;\">ación continua para mejorar el diseño.</span></li>\n</ul>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Tu reto</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Diseñar y construir un puente que:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Sea estable.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Sea resistente.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Sea estético.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Esté bien justificado científicamente.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Y supere la prueba de carga.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Listo para demostrar tus habilidades como ingeniero/a?</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6m-e6dxjkue3</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Curación de contenidos – Docente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6m-e6dxjkue3</odePageId>
+      <odeBlockId>block-1779703381252-2ooh0yp84</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6m-e6dxjkue3</odePageId>
+          <odeBlockId>block-1779703381252-2ooh0yp84</odeBlockId>
+          <odeIdeviceId>idevice-1779703381249-rz07p5ibr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Panel de curación de contenidos para el docente</span></strong></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Este panel reúne los recursos seleccionados específicamente para apoyar al profesorado en la implementación del proyecto “¿Cómo cruzamos el Guadalquivir?”. Incluye materiales de referencia, vídeos, artículos, simuladores, guías metodológicas y herramientas digitales que facilitan la planificación, el acompañamiento y la evaluación del alumnado.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">El objetivo de este panel es:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Facilitar el acceso rápido a recursos fiables y actualizados.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Apoyar la preparación de las sesiones del proyecto.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Proporcionar materiales complementarios para atender a la diversidad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ofrecer herramientas digitales útiles para el diseño de actividades.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Servir como repositorio de consulta durante todo el desarrollo de la SdA.</span></li>
+</ul>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">Acceso al panel de curación (Wakelet para docente)</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Haz clic en el siguiente enlace para acceder:</span></p>
+<p><a href="https://wakelet.com/wake/9i7eT7t9lEEfel7kiZ960">https://wakelet.com/wake/9i7eT7t9lEEfel7kiZ960</a></p>
+<p>(Creada por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Wakelet.)</p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Este panel se irá actualizando con nuevos recursos a medida que avance el proyecto.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779703381249-rz07p5ibr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Panel de curación de contenidos para el docente</span></strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Este panel reúne los recursos seleccionados específicamente para apoyar al profesorado en la implementación del proyecto “¿Cómo cruzamos el Guadalquivir?”. Incluye materiales de referencia, vídeos, artículos, simuladores, guías metodológicas y herramientas digitales que facilitan la planificación, el acompañamiento y la evaluación del alumnado.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">El objetivo de este panel es:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Facilitar el acceso rápido a recursos fiables y actualizados.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Apoyar la preparación de las sesiones del proyecto.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Proporcionar materiales complementarios para atender a la diversidad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ofrecer herramientas digitales útiles para el diseño de actividades.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Servir como repositorio de consulta durante todo el desarrollo de la SdA.</span></li>\n</ul>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Acceso al panel de curación (Wakelet para docente)</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Haz clic en el siguiente enlace para acceder:</span></p>\n<p><a href=\"https://wakelet.com/wake/9i7eT7t9lEEfel7kiZ960\">https://wakelet.com/wake/9i7eT7t9lEEfel7kiZ960</a></p>\n<p>(Creada por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Wakelet.)</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Este panel se irá actualizando con nuevos recursos a medida que avance el proyecto.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6n-gzzlyv121</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Curación de contenidos – Alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6n-gzzlyv121</odePageId>
+      <odeBlockId>block-1779704012785-ibubh9hi2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6n-gzzlyv121</odePageId>
+          <odeBlockId>block-1779704012785-ibubh9hi2</odeBlockId>
+          <odeIdeviceId>idevice-1779704012782-htx9eq5qb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong><span style="font-family: arial, helvetica, sans-serif;">Panel de recursos para el alumnado</span></strong></span></p>
+<p style="text-align: justify;"><br /><span style="font-family: arial, helvetica, sans-serif;">En este panel encontrarás una selección de recursos que te ayudarán a comprender mejor cómo funcionan los puentes, qué fuerzas actúan sobre ellos y qué principios físicos debes aplicar para diseñar tu propio puente sobre el Guadalquivir.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Aquí podrás consultar:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Vídeos explicativos sobre estructuras y fuerzas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Simuladores interactivos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejemplos de puentes reales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Materiales de apoyo para tus cálculos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ideas y referencias para inspirarte en tu diseño.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Este panel está pensado para que puedas avanzar a tu ritmo, resolver dudas y mejorar tu proyecto final.</span></li>
+</ul>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">Acceso al panel de recursos (alumnado)</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Haz clic en el siguiente enlace para acceder al Padlet:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><a href="https://padlet.com/mespgon582/recursos-para-disenar-nuestro-puente-sobre-el-guadalquivir-hl2ieskwt1ezsxj8">https://padlet.com/mespgon582/recursos-para-disenar-nuestro-puente-sobre-el-guadalquivir-hl2ieskwt1ezsxj8</a></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">(Creado por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Padlet)</span></p>
+<p>Puedes consultarlo desde el ordenador, la tablet o el móvil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779704012782-htx9eq5qb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Panel de recursos para el alumnado</span></strong></span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: arial, helvetica, sans-serif;\">En este panel encontrarás una selección de recursos que te ayudarán a comprender mejor cómo funcionan los puentes, qué fuerzas actúan sobre ellos y qué principios físicos debes aplicar para diseñar tu propio puente sobre el Guadalquivir.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Aquí podrás consultar:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Vídeos explicativos sobre estructuras y fuerzas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Simuladores interactivos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejemplos de puentes reales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Materiales de apoyo para tus cálculos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ideas y referencias para inspirarte en tu diseño.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Este panel está pensado para que puedas avanzar a tu ritmo, resolver dudas y mejorar tu proyecto final.</span></li>\n</ul>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Acceso al panel de recursos (alumnado)</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Haz clic en el siguiente enlace para acceder al Padlet:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><a href=\"https://padlet.com/mespgon582/recursos-para-disenar-nuestro-puente-sobre-el-guadalquivir-hl2ieskwt1ezsxj8\">https://padlet.com/mespgon582/recursos-para-disenar-nuestro-puente-sobre-el-guadalquivir-hl2ieskwt1ezsxj8</a></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">(Creado por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Padlet)</span></p>\n<p>Puedes consultarlo desde el ordenador, la tablet o el móvil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6o-2jczk43u5</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6o-2jczk43u5</odePageId>
+      <odeBlockId>block-1779704452176-7r0ybaggy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6o-2jczk43u5</odePageId>
+          <odeBlockId>block-1779704452176-7r0ybaggy</odeBlockId>
+          <odeIdeviceId>idevice-1779704452169-ktot2sgw4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong><span style="font-family: arial, helvetica, sans-serif;">Línea temporal del proyecto</span></strong></span><br />En esta línea temporal puedes ver todas las fases del proyecto “¿Cómo cruzamos el Guadalquivir?”.</p>
+<p>(Creada por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Genially)</p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="FASE 1 — INTRODUCCIÓN (Sesiones 1–3) Sesión 1: Actividad: “Breve historia de la relación Fuerza–Efecto” Agrupamiento: Clase completa Espacio" frameborder="0" src="https://view.genially.com/6a1153b60f1a38aa6e27a0e2" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779704452169-ktot2sgw4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Línea temporal del proyecto</span></strong></span><br />En esta línea temporal puedes ver todas las fases del proyecto “¿Cómo cruzamos el Guadalquivir?”.</p>\n<p>(Creada por Manuel – Licencia: CC BY-SA 4.0 – Plataforma: Genially)</p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"FASE 1 — INTRODUCCIÓN (Sesiones 1–3) Sesión 1: Actividad: “Breve historia de la relación Fuerza–Efecto” Agrupamiento: Clase completa Espacio\" frameborder=\"0\" src=\"https://view.genially.com/6a1153b60f1a38aa6e27a0e2\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6p-0j4hn6j33</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6p-0j4hn6j33</odePageId>
+      <odeBlockId>block-1779704836623-11dyfwax4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6p-0j4hn6j33</odePageId>
+          <odeBlockId>block-1779704836623-11dyfwax4</odeBlockId>
+          <odeIdeviceId>idevice-1779704836617-lx4kxd8rm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Tareas del proyecto y criterios de evaluación</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">A continuación se presentan las tareas principales del proyecto “¿Cómo cruzamos el Guadalquivir?” y su relación con los criterios de evaluación de la materia de Física y Química en 3º ESO.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;"> </span><span style="font-family: arial, helvetica, sans-serif;">1. Tareas del proyecto</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/Tabla de tareas del proyecto.png" width="726" height="436" alt="" /></span></p>
+<p>Tabla: "Listado de tareas". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0.<br /><span style="font-family: arial, helvetica, sans-serif;"> </span><br /><strong><span style="font-family: arial, helvetica, sans-serif;">2. Criterios de evaluación asociados (LOMLOE – Andalucía)</span></strong></p>
+<p><img src="{{context_path}}/content/resources/Criterios de evaluación asociados.png" width="724" height="334" alt="Tabla de relación de criterios. Fuente: elaboración propia con Copilot" /></p>
+<p>Tabla: "Criterios de evaluación". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.<br /><span style="font-family: arial, helvetica, sans-serif;"> </span><br /><strong><span style="font-family: arial, helvetica, sans-serif;">3. Competencias específicas implicadas</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">CE1: Comprender y aplicar conceptos físicos en situaciones reales.</span><br /><span style="font-family: arial, helvetica, sans-serif;">CE2: Utilizar el método científico para analizar problemas.</span><br /><span style="font-family: arial, helvetica, sans-serif;">CE3: Emplear herramientas digitales para investigar y comunicar.</span><br /><span style="font-family: arial, helvetica, sans-serif;">CE4: Trabajar de forma cooperativa y responsable.</span><br /><span style="font-family: arial, helvetica, sans-serif;">CE5: Comunicar información científica de forma clara y rigurosa.</span><br /><span style="font-family: arial, helvetica, sans-serif;"> </span><br /><strong><span style="font-family: arial, helvetica, sans-serif;">4. Relación con el producto final</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">El producto final (maqueta + presentación digital) se evalúa mediante:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de conceptos de fuerzas y equilibrio.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Calidad del diseño técnico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Rigor en los cálculos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Funcionamiento en la prueba de carga.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Claridad de la presentación Genially.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trabajo cooperativo.</span><br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779704836617-lx4kxd8rm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Tareas del proyecto y criterios de evaluación</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A continuación se presentan las tareas principales del proyecto “¿Cómo cruzamos el Guadalquivir?” y su relación con los criterios de evaluación de la materia de Física y Química en 3º ESO.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><span style=\"font-family: arial, helvetica, sans-serif;\">1. Tareas del proyecto</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/Tabla de tareas del proyecto.png\" width=\"726\" height=\"436\" alt=\"\" /></span></p>\n<p>Tabla: \"Listado de tareas\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0.<br /><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><br /><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2. Criterios de evaluación asociados (LOMLOE – Andalucía)</span></strong></p>\n<p><img src=\"{{context_path}}/content/resources/Criterios de evaluación asociados.png\" width=\"724\" height=\"334\" alt=\"Tabla de relación de criterios. Fuente: elaboración propia con Copilot\" /></p>\n<p>Tabla: \"Criterios de evaluación\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.<br /><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><br /><strong><span style=\"font-family: arial, helvetica, sans-serif;\">3. Competencias específicas implicadas</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">CE1: Comprender y aplicar conceptos físicos en situaciones reales.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">CE2: Utilizar el método científico para analizar problemas.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">CE3: Emplear herramientas digitales para investigar y comunicar.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">CE4: Trabajar de forma cooperativa y responsable.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">CE5: Comunicar información científica de forma clara y rigurosa.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"> </span><br /><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4. Relación con el producto final</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">El producto final (maqueta + presentación digital) se evalúa mediante:</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de conceptos de fuerzas y equilibrio.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Calidad del diseño técnico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Rigor en los cálculos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Funcionamiento en la prueba de carga.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Claridad de la presentación Genially.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajo cooperativo.</span><br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6s-cb4yntra8</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6s-cb4yntra8</odePageId>
+      <odeBlockId>block-1779705273887-jt5jaq7co</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6s-cb4yntra8</odePageId>
+          <odeBlockId>block-1779705273887-jt5jaq7co</odeBlockId>
+          <odeIdeviceId>idevice-1779705273879-y2806pxdl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Instrumentos de evaluación del proyecto</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">A continuación se presentan los instrumentos utilizados para evaluar el proyecto “¿Cómo cruzamos el Guadalquivir?”. Todos ellos están alineados con los criterios de evaluación de la LOMLOE y permiten valorar tanto el proceso como el producto final.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">1. Rúbrica del producto final (maqueta + presentación digital)</span></strong></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/Rúbrica del producto final.png" title="Rúbrica para la evaluación del producto final. Fuente: elaboración propia" width="980" height="1180" alt="" /></span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Tabla: "Rúbrica del producto final". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">2. Lista de cotejo del trabajo cooperativo</span></strong></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/Lista de cotejo.png" width="1440" height="538" alt="" /></span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Tabla: "Lista de cotejo". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">3. Rúbrica de la presentación oral</span></strong></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/Rúbrica de presentación oral.png" width="724" height="408" alt="" /></span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Tabla: "Rúbrica de presentación oral". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;">4. Instrumento para la prueba de carga</span></strong></p>
+<p><strong><span style="font-family: arial, helvetica, sans-serif;"><img src="{{context_path}}/content/resources/Instrumento para la prueba de carga.png" width="726" height="212" alt="" /></span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Tabla: "Instrumentos para la prueba de carga". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779705273879-y2806pxdl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Instrumentos de evaluación del proyecto</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A continuación se presentan los instrumentos utilizados para evaluar el proyecto “¿Cómo cruzamos el Guadalquivir?”. Todos ellos están alineados con los criterios de evaluación de la LOMLOE y permiten valorar tanto el proceso como el producto final.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">1. Rúbrica del producto final (maqueta + presentación digital)</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/Rúbrica del producto final.png\" title=\"Rúbrica para la evaluación del producto final. Fuente: elaboración propia\" width=\"980\" height=\"1180\" alt=\"\" /></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Tabla: \"Rúbrica del producto final\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2. Lista de cotejo del trabajo cooperativo</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/Lista de cotejo.png\" width=\"1440\" height=\"538\" alt=\"\" /></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Tabla: \"Lista de cotejo\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">3. Rúbrica de la presentación oral</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/Rúbrica de presentación oral.png\" width=\"724\" height=\"408\" alt=\"\" /></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Tabla: \"Rúbrica de presentación oral\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4. Instrumento para la prueba de carga</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><img src=\"{{context_path}}/content/resources/Instrumento para la prueba de carga.png\" width=\"726\" height=\"212\" alt=\"\" /></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Tabla: \"Instrumentos para la prueba de carga\". Material elaborado por Manuel con apoyo de herramientas de IA (Microsoft Copilot). Licencia: CC BY-SA 4.0. Licencia: CC BY-SA 4.0.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6t-2ua3k1g9v</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6t-2ua3k1g9v</odePageId>
+      <odeBlockId>block-1779705902312-xd5lmn12z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6t-2ua3k1g9v</odePageId>
+          <odeBlockId>block-1779705902312-xd5lmn12z</odeBlockId>
+          <odeIdeviceId>idevice-1779705902309-4eu9eim75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong><span style="font-family: arial, helvetica, sans-serif;">Guía didáctica del proyecto “¿Cómo cruzamos el Guadalquivir?”</span></strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>1. Justificación del proyecto</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Este proyecto propone al alumnado el diseño y construcción de un puente capaz de soportar una prueba de carga real. A través de esta tarea global, el alumnado aplica conceptos de fuerzas, equilibrio, estructuras y materiales, desarrollando competencias científicas, digitales y cooperativas. La propuesta se basa en metodologías activas y en el aprendizaje basado en proyectos (ABP), fomentando la investigación, la experimentación y la resolución de problemas reales.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong> 2. Objetivos didácticos</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Comprender las fuerzas que actúan sobre una estructura. </span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Aplicar principios de equilibrio y estabilidad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Utilizar herramientas digitales para investigar y comunicar.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Diseñar y construir una maqueta funcional.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Trabajar de forma cooperativa y responsable.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Comunicar resultados de forma clara y rigurosa.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>3. Competencias clave</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CCL – Comunicación lingüística</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">STEM – Competencia matemática, ciencia y tecnología</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CD – Competencia digital</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CPSAA – Competencia personal, social y aprender a aprender</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CC – Competencia ciudadana</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE – Competencia emprendedora</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CCEC – Conciencia y expresión cultural</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>4. Competencias específicas de Física y Química (3º ESO)</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE1: Comprender y aplicar conceptos físicos en situaciones reales.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE2: Utilizar el método científico para analizar problemas.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE3: Emplear herramientas digitales para investigar y comunicar.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE4: Trabajar de forma cooperativa y responsable.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">CE5: Comunicar información científica de forma clara y rigurosa.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></p>
+<p><strong>5. Temporalización</strong></p>
+<p>Duración total: 15 sesiones</p>
+<p>Sesión 1: Presentación del reto.<br />Sesión 2: Fuerzas y estructuras.<br />Sesión 3: Equilibrio y estabilidad.<br />Sesión 4: Simuladores digitales.<br />Sesión 5: Tipos de puentes y análisis estructural.<br />Sesión 6: Bocetos iniciales.<br />Sesión 7: Cálculos y mejoras del diseño.<br />Sesión 8: Planos definitivos y selección de materiales.<br />Sesión 9: Inicio de la construcción.<br />Sesión 10: Construcción (fase 2).<br />Sesión 11: Construcción (fase 3).<br />Sesión 12: Acabados y pruebas preliminares.<br />Sesión 13: Prueba de carga oficial.<br />Sesión 14: Preparación de la presentación final.<br />Sesión 15: Presentación final del proyecto.</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"></span><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>6. Relación tareas con criterios de evaluación</strong></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> <img src="{{context_path}}/content/resources/mceclip1.png" /></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> Para ver el documento completo, pincha el enlace: <a href="https://docs.google.com/document/d/1ltC8Iys7RsrSqfX2YEnvEcQtFzGEwRWB/edit?usp=sharing&ouid=103316270693957964656&rtpof=true&sd=true">https://docs.google.com/document/d/1ltC8Iys7RsrSqfX2YEnvEcQtFzGEwRWB/edit?usp=sharing&ouid=103316270693957964656&rtpof=true&sd=true</a></span></p>
+<p><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>7. Metodología</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Aprendizaje Basado en Proyectos (ABP)</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Trabajo cooperativo con roles definidos</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Aprendizaje por investigación</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Uso de simuladores digitales</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Evaluación formativa y continua</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Aprendizaje significativo mediante retos reales</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>8. Organización del aula</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Grupos cooperativos de 3–4 alumnos/as.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Roles: coordinación, diseño, cálculos, construcción, presentación.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Espacios: aula ordinaria + laboratorio o taller.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Materiales accesibles y organizados por estaciones.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>9. Atención a la diversidad</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Andamiaje visual y conceptual.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Materiales adaptados para alumnado NEAE.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Ritmos diferenciados mediante tareas escalonadas.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Uso de simuladores para alumnado con dificultades motrices.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Extensiones para alumnado de alto rendimiento (optimización estructural).</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Evaluación flexible: oral, escrita, digital.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>10. Recursos necesarios</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Palillos de madera, cartón, cuerdas, pegamento.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Simuladores digitales (PhET, GeoGebra).</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Dispositivos con acceso a internet.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Herramientas de diseño digital (Genially, Padlet, Wakelet).</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Material audiovisual.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Balanza o pesas para prueba de carga.</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>11. Evaluación</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><em>Instrumentos utilizados</em></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Rúbrica del producto final.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Lista de cotejo del trabajo cooperativo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Rúbrica de la presentación oral.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Registro de la prueba de carga.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Observación directa.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Autoevaluación y coevaluación.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><em>Evaluación formativa</em></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Retroalimentación continua en cada fase.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Revisión de bocetos y cálculos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Ajustes durante la construcción.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><em>Evaluación sumativa</em></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Producto final (maqueta + Genially).</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Prueba de carga.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Presentación oral.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Trabajo cooperativo.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>12. Relación con los ODS</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Este proyecto contribuye especialmente a:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">ODS 4: Educación de calidad</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">ODS 9: Industria, innovación e infraestructura</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">ODS 11: Ciudades y comunidades sostenibles</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">ODS 12: Producción y consumo responsables</span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span><br /><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>13. Seguridad y normas de uso de materiales</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Uso responsable de herramientas de corte.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Prohibido aplicar fuerza excesiva sin supervisión.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Mantener el espacio de trabajo ordenado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Uso adecuado de pegamentos y materiales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Respetar las normas del laboratorio.</span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>14. Conexión con otras materias</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tecnología: estructuras, materiales, diseño técnico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Matemáticas: proporciones, vectores, cálculos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Lengua: comunicación oral y escrita.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Plástica: diseño visual y maquetación.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Digital: creación de presentaciones interactivas.</span></li>
+</ul>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779705902309-4eu9eim75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Guía didáctica del proyecto “¿Cómo cruzamos el Guadalquivir?”</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1. Justificación del proyecto</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Este proyecto propone al alumnado el diseño y construcción de un puente capaz de soportar una prueba de carga real. A través de esta tarea global, el alumnado aplica conceptos de fuerzas, equilibrio, estructuras y materiales, desarrollando competencias científicas, digitales y cooperativas. La propuesta se basa en metodologías activas y en el aprendizaje basado en proyectos (ABP), fomentando la investigación, la experimentación y la resolución de problemas reales.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong> 2. Objetivos didácticos</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Comprender las fuerzas que actúan sobre una estructura. </span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Aplicar principios de equilibrio y estabilidad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Utilizar herramientas digitales para investigar y comunicar.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Diseñar y construir una maqueta funcional.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trabajar de forma cooperativa y responsable.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Comunicar resultados de forma clara y rigurosa.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3. Competencias clave</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CCL – Comunicación lingüística</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">STEM – Competencia matemática, ciencia y tecnología</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CD – Competencia digital</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CPSAA – Competencia personal, social y aprender a aprender</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CC – Competencia ciudadana</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE – Competencia emprendedora</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CCEC – Conciencia y expresión cultural</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>4. Competencias específicas de Física y Química (3º ESO)</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE1: Comprender y aplicar conceptos físicos en situaciones reales.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE2: Utilizar el método científico para analizar problemas.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE3: Emplear herramientas digitales para investigar y comunicar.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE4: Trabajar de forma cooperativa y responsable.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">CE5: Comunicar información científica de forma clara y rigurosa.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span></p>\n<p><strong>5. Temporalización</strong></p>\n<p>Duración total: 15 sesiones</p>\n<p>Sesión 1: Presentación del reto.<br />Sesión 2: Fuerzas y estructuras.<br />Sesión 3: Equilibrio y estabilidad.<br />Sesión 4: Simuladores digitales.<br />Sesión 5: Tipos de puentes y análisis estructural.<br />Sesión 6: Bocetos iniciales.<br />Sesión 7: Cálculos y mejoras del diseño.<br />Sesión 8: Planos definitivos y selección de materiales.<br />Sesión 9: Inicio de la construcción.<br />Sesión 10: Construcción (fase 2).<br />Sesión 11: Construcción (fase 3).<br />Sesión 12: Acabados y pruebas preliminares.<br />Sesión 13: Prueba de carga oficial.<br />Sesión 14: Preparación de la presentación final.<br />Sesión 15: Presentación final del proyecto.</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>6. Relación tareas con criterios de evaluación</strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> <img src=\"{{context_path}}/content/resources/mceclip1.png\" /></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> Para ver el documento completo, pincha el enlace: <a href=\"https://docs.google.com/document/d/1ltC8Iys7RsrSqfX2YEnvEcQtFzGEwRWB/edit?usp=sharing&ouid=103316270693957964656&rtpof=true&sd=true\">https://docs.google.com/document/d/1ltC8Iys7RsrSqfX2YEnvEcQtFzGEwRWB/edit?usp=sharing&ouid=103316270693957964656&rtpof=true&sd=true</a></span></p>\n<p><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>7. Metodología</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Aprendizaje Basado en Proyectos (ABP)</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trabajo cooperativo con roles definidos</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Aprendizaje por investigación</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Uso de simuladores digitales</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Evaluación formativa y continua</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Aprendizaje significativo mediante retos reales</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>8. Organización del aula</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Grupos cooperativos de 3–4 alumnos/as.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Roles: coordinación, diseño, cálculos, construcción, presentación.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Espacios: aula ordinaria + laboratorio o taller.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Materiales accesibles y organizados por estaciones.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>9. Atención a la diversidad</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Andamiaje visual y conceptual.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Materiales adaptados para alumnado NEAE.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Ritmos diferenciados mediante tareas escalonadas.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Uso de simuladores para alumnado con dificultades motrices.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Extensiones para alumnado de alto rendimiento (optimización estructural).</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Evaluación flexible: oral, escrita, digital.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>10. Recursos necesarios</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Palillos de madera, cartón, cuerdas, pegamento.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Simuladores digitales (PhET, GeoGebra).</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Dispositivos con acceso a internet.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Herramientas de diseño digital (Genially, Padlet, Wakelet).</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Material audiovisual.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Balanza o pesas para prueba de carga.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>11. Evaluación</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em>Instrumentos utilizados</em></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Rúbrica del producto final.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Lista de cotejo del trabajo cooperativo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Rúbrica de la presentación oral.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Registro de la prueba de carga.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Observación directa.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Autoevaluación y coevaluación.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em>Evaluación formativa</em></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Retroalimentación continua en cada fase.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Revisión de bocetos y cálculos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Ajustes durante la construcción.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em>Evaluación sumativa</em></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Producto final (maqueta + Genially).</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Prueba de carga.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Presentación oral.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trabajo cooperativo.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>12. Relación con los ODS</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Este proyecto contribuye especialmente a:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">ODS 4: Educación de calidad</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">ODS 9: Industria, innovación e infraestructura</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">ODS 11: Ciudades y comunidades sostenibles</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">ODS 12: Producción y consumo responsables</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>13. Seguridad y normas de uso de materiales</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Uso responsable de herramientas de corte.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Prohibido aplicar fuerza excesiva sin supervisión.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Mantener el espacio de trabajo ordenado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Uso adecuado de pegamentos y materiales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Respetar las normas del laboratorio.</span></li>\n</ul>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>14. Conexión con otras materias</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Tecnología: estructuras, materiales, diseño técnico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Matemáticas: proporciones, vectores, cálculos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Lengua: comunicación oral y escrita.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Plástica: diseño visual y maquetación.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Digital: creación de presentaciones interactivas.</span></li>\n</ul>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9iv6v-78wro9pb2</odePageId>
+  <odeParentPageId>page-mpo9iv66-1q2bt8rhu</odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9iv6v-78wro9pb2</odePageId>
+      <odeBlockId>block-1779783582633-w6hqb8c1z</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9iv6v-78wro9pb2</odePageId>
+          <odeBlockId>block-1779783582633-w6hqb8c1z</odeBlockId>
+          <odeIdeviceId>idevice-1779783582628-w0j5ylhvm</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Cómo cruzamos el Guadalquivir? - Física y Química 3º ESO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Manuel Espinar</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
